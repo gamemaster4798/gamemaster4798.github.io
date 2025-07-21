@@ -1,0 +1,41 @@
+<!DOCTYPE HTML>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+ 
+
+    <img src="RTX 5090.png" height="200" title="This is an RTX 5090, Pretty cool, right?" "> 
+</body>
+</html>
+
+<p>
+    <big>Graphics cards:</big>
+<ul>
+    <li>RTX 5090</li>
+    <li>Radeon RX 9700 XT</li>
+    <li>GeForce 1080 TI</li>
+</ul>
+
+    <p>
+        <ol>
+            <li>Radeon RX 570</li>
+            <li>Radeon RX 580</li>
+        </ol>
+    </p>
+
+
+    <p>
+        <big>CPU's</big>
+        
+        <dl>
+            <li>Intel Core i5 2500 quad core</li>
+        </dl>
+    </p>
+</p>
+
